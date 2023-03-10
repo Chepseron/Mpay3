@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">M-pay</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_scan_bar_code">ScanBarCodeActivity</string>
+    <string name="scan_barcode" />
+    <string name="title_activity_scanned_bar_code">ScannedBarCodeActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_mnu">MnuActivity</string>
+
+</resources>
